@@ -1,0 +1,1 @@
+print("Mimkyu es el mejor pokemon de Alola")
