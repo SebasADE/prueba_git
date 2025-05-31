@@ -1,1 +1,2 @@
-print("Mimkyu es el mejor pokemon de Alola")
+hola= "hola"
+print(hola)
